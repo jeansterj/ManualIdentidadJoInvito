@@ -28,5 +28,26 @@ justify-content: space-between;
 font-family: 'Montserrat', sans-serif !important;
 font-weight: 700; 
 
+}
 
+.menuColor{
+    background-color: #FFCA10;
+}
+.colorPrincipal{
+    background-color: #07203C;
+}
+.colorSecundario{
+    background-color: #243E57;
+}
+.colorError{
+    background-color: #DD052A;
+}
+
+.white{
+
+    background-color: white;
+}
+
+.montserrat{
+    font-family: 'Montserrat', sans-serif !important;
 }
