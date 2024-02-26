@@ -51,3 +51,7 @@ font-weight: 700;
 .montserrat{
     font-family: 'Montserrat', sans-serif !important;
 }
+
+.bold{
+    font-weight: bold; 
+}
