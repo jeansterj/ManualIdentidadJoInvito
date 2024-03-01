@@ -22,6 +22,11 @@ height: 500px;
 padding-top: 60px;
 }
 
+.imgTitulo{
+
+    width: 400px;
+}
+
 
 .navbar-expand-lg .navbar-collapse{
 justify-content: space-between;
@@ -54,4 +59,10 @@ font-weight: 700;
 
 .bold{
     font-weight: bold; 
+}
+
+.imgTeoria{
+
+width: 400px;
+
 }
