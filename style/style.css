@@ -8,7 +8,7 @@ font-family: 'Jost', sans-serif;
 .portada{
 
 background-color: #FFCA10;
-height: 500px;
+height: 750px;
 
 }
 
@@ -19,7 +19,7 @@ height: 500px;
 
 .cuadroTitulo{
 
-padding-top: 60px;
+padding-top: 170px;
 }
 
 .imgTitulo{
@@ -65,4 +65,39 @@ font-weight: 700;
 
 width: 400px;
 
+}
+
+
+.mt-5{
+
+margin-top: 15rem!important;
+
+}
+
+.p-3 {
+
+padding: 3rm !important;
+
+}
+
+.spacioParrafo{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.divMensaje{
+  
+    height: 120px;
+    width: 660px;
+    box-shadow: 0px 8px 0px 8px #07203C;
+    background-color: #FFCA10;
+    border-radius: 10px;
+    text-align: justify;
+    padding: 10px;
+
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
