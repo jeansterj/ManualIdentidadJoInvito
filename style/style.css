@@ -142,5 +142,19 @@ padding: 3rm !important;
     margin-top: 4rem!important;
     margin-bottom: 4rem!important;
 
+}
 
+.textWhite{
+
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .titulo {
+        font-size: 10vw;
+    }
+
+    .divMensajeCenter, .divMensajeIzquierda, .divMensajeDerecha {
+        width: 100%; 
+    }
 }
